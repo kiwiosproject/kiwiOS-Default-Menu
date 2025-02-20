@@ -11,14 +11,14 @@ The default pearOS Menu (found in top-left corner, with a pear logo)
 </p>
 
 # Installation
-* run `install.sh` for automated install
+* run `install.sh` for automated install (THIS DOESNT WORK ANYMORE!)
 
 * Manual installation:
 
 ```bash
-git clone https://github.com/Pear-Project/pearOS-Default-Menu
-sudo mkdir -p /usr/share/plasma/plasmoids/xyz.pear.menu
-sudo mv pearOS-Default-Menu/* /usr/share/plasma/plasmoids/xyz.pear.menu
+git clone https://github.com/kiwiosproject/kiwiOS-Default-Menu.git
+sudo mkdir -p /usr/share/plasma/plasmoids/xyz.kiwi.menu
+sudo mv kiwiOS-Default-Menu/* /usr/share/plasma/plasmoids/xyz.kiwi.menu
 ```
 
 # Copyright
