@@ -1,5 +1,5 @@
-# pearOS Menu
-The default pearOS Menu (found in top-left corner, with a pear logo)
+# KiwiOS Menu
+The default KiwiOS Menu (found in top-left corner, with a kiwi fruit logo)
 <p align="center">
     <img src="screenshots/pear_banner.png" alt="banner">
 </p>
